@@ -49,5 +49,5 @@ gp <- group_by(refined, subject, activity)
 
 #Summarise means for each activity and subject
 table <- summarise_each(gp, funs(mean))
-
+table
 

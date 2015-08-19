@@ -1,5 +1,5 @@
 The data set consists of accelerometer and gyroscope signals from a Samsung Galaxy S2 smartphone.  The data was collected from 30 volunteers while performing 6 different activities.  The initial dat set recorded 561 observations for each individual/activity pair.  These observations were either time or frequency domain readings.  For the purpose of this project, we focused on readings involving the mean or standard deviation of time domain signals.  This resulted in a reduced data set consisting of 40 variables:
-<<<<<<< HEAD
+
 -         Mean Body x - Mean body accelration in the x direction, measured in gravitational units.
 -       Mean Body y - Mean body accelration in the y direction, measured in gravitational units.
 -       Mean Body z - Mean body accelration in the z direction, measured in gravitational units.
